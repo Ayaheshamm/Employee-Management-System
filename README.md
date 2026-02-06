@@ -11,8 +11,8 @@ How it works:
 Employees drive to work using their cars
 System checks if they arrive before 9:00 AM based on:
 Departure time
-Distance (20 km)
-Car speed (60 km/h)
+Distance 
+Car speed 
 Available fuel
 On time → Salary +10 L.E
 Late → Salary -10 L.E
